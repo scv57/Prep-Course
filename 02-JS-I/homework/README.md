@@ -7,10 +7,15 @@
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
  * Variables
+ R/ son espacios que en memoria que usan para asignarles un nombre y un valor 
  * Strings
+ R/ son la representacion de caracteres dentro del codigo
  * Funciones (argumentos, `return`)
+ R/ son bloques de codigo o instancias donde se programa codigo que puede ser reutilizado mas adelante 
  * Declaraciones `if`
+ R/ es un condicional, permite evaluar condiciones y segun que condicion sea verdadera o falsa se ejecuta un bloque de codigo especifico
  * Valores booleanos (`true`, `false`)
+ R/ son valores que se usan para evaluar si algo es verdadero o falso en diferentes sentencias de control
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
